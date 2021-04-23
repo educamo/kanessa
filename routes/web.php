@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('Default');
+});
+Route::get('/productos', function () {
+    return view('productos');
 });
