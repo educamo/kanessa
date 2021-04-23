@@ -1,1 +1,8 @@
-main {}
+main {
+    margin-top: 10%;
+}
+
+#logo {
+    width: 5%;
+    height: 5%;
+}

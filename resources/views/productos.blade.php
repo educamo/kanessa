@@ -4,7 +4,7 @@
 @endsection
 
 
-@section('contenido')
-<h1>Productos</h1>
-
-@stop
+    @section('contenido')
+    <h1>Productos</h1>
+    
+    @stop

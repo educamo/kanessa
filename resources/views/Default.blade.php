@@ -5,6 +5,7 @@
 
 
 @section('contenido')
+<h1>Inicio</h1>
 <h1 style="margin-top: 2000px;">hola</h1>
 
 @stop
